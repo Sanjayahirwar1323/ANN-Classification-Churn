@@ -1,5 +1,4 @@
-tensorflow-macos
-tensorflow-metal  # Optional for GPU support
+tensorflow==2.15.0
 pandas 
 numpy 
 scikit-learn
