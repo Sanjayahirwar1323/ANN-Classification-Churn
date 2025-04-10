@@ -1,9 +1,5 @@
 # 🔄 ANN-Classification-Churn 🔄
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/ANN-Classification-Churn?style=social)](https://github.com/yourusername/ANN-Classification-Churn/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/ANN-Classification-Churn?style=social)](https://github.com/yourusername/ANN-Classification-Churn/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/ANN-Classification-Churn)](https://github.com/yourusername/ANN-Classification-Churn/issues)
-[![GitHub license](https://img.shields.io/github/license/yourusername/ANN-Classification-Churn)](https://github.com/yourusername/ANN-Classification-Churn/blob/master/LICENSE)
 
 ## 📋 Overview
 
